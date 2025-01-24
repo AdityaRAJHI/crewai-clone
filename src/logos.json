@@ -1,0 +1,62 @@
+[
+      {
+        "id": 1,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><circle cx='25' cy='25' r='20' fill='red'/></svg>",
+        "alt": "Logo 1"
+      },
+      {
+        "id": 2,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><rect width='50' height='50' fill='green'/></svg>",
+        "alt": "Logo 2"
+      },
+      {
+        "id": 3,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><polygon points='25,5 5,45 45,45' fill='blue'/></svg>",
+        "alt": "Logo 3"
+      },
+      {
+        "id": 4,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><line x1='0' y1='0' x2='50' y2='50' stroke='black' stroke-width='5'/></svg>",
+        "alt": "Logo 4"
+      },
+      {
+        "id": 5,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><ellipse cx='25' cy='25' rx='20' ry='10' fill='orange'/></svg>",
+        "alt": "Logo 5"
+      },
+      {
+        "id": 6,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><path d='M25 5 L5 45 L45 45 Z' fill='purple'/></svg>",
+        "alt": "Logo 6"
+      },
+      {
+        "id": 7,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><rect x='10' y='10' width='30' height='30' fill='yellow'/></svg>",
+        "alt": "Logo 7"
+      },
+      {
+        "id": 8,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><circle cx='25' cy='25' r='15' fill='pink'/></svg>",
+        "alt": "Logo 8"
+      },
+      {
+        "id": 9,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><line x1='0' y1='50' x2='50' y2='0' stroke='gray' stroke-width='5'/></svg>",
+        "alt": "Logo 9"
+      },
+      {
+        "id": 10,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><ellipse cx='25' cy='25' rx='10' ry='20' fill='teal'/></svg>",
+        "alt": "Logo 10"
+      },
+      {
+        "id": 11,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><path d='M10 10 L40 10 L40 40 L10 40 Z' fill='brown'/></svg>",
+        "alt": "Logo 11"
+      },
+      {
+        "id": 12,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50'><circle cx='25' cy='25' r='10' fill='lime'/></svg>",
+        "alt": "Logo 12"
+      }
+    ]

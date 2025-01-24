@@ -1,0 +1,21 @@
+.integrations {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      grid-gap: 20px;
+      padding: 40px;
+    }
+
+    .logo-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100px;
+      height: 100px;
+      border-radius: 10px;
+      background-color: #f0f0f0;
+    }
+
+    .logo-container img {
+      max-width: 80%;
+      max-height: 80%;
+    }

@@ -1,0 +1,30 @@
+.integration-details {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 40px;
+    }
+
+    .integration-image {
+      flex: 1;
+      padding-right: 20px;
+    }
+
+    .integration-image img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .integration-text {
+      flex: 1;
+      padding-left: 20px;
+    }
+
+    .integration-text h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    .integration-text p {
+      font-size: 16px;
+    }

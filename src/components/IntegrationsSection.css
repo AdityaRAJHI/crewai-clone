@@ -1,0 +1,50 @@
+.integrations-section {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      padding: 40px;
+    }
+
+    .integrations-box {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      padding-right: 20px;
+    }
+
+    .integration-item {
+      border: 1px solid #ddd;
+      padding: 20px;
+      border-radius: 5px;
+    }
+
+    .integration-content h3 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .integration-icon {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .integration-icon svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .integrations-text {
+      flex: 1;
+      padding-left: 20px;
+    }
+
+    .integrations-text h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    .integrations-text p {
+      font-size: 16px;
+    }

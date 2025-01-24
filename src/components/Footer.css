@@ -1,0 +1,36 @@
+.footer {
+      background-color: #222;
+      color: white;
+      padding: 40px;
+    }
+
+    .footer-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+
+    .footer-logo {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 50px;
+    }
+
+    .footer-section h4 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    .footer-section ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .footer-section li {
+      margin-bottom: 5px;
+      cursor: pointer;
+    }
